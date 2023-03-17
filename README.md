@@ -8,4 +8,4 @@
 - Still a student by the way.
 
 ## Links
-https://kazumikasa.carrd.co
+https://kazumikasa.carrd.co <-- placeholder bio
